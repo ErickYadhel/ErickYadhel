@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=200&section=header&text=Erick%20Yadhel&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Estudiante+en+Universidad+O%26M;Cloud+%26+DevOps+Enthusiast;Open+Source+Lover;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Estudiante+en+Universidad+O%26M;Cloud+%26+DevOps+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
 
 ![Visitas](https://komarev.com/ghpvc/?username=ErickYadhel&label=Visitas+al+perfil&color=FF0000&style=for-the-badge)
 
@@ -45,21 +45,15 @@ const aboutMe = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ErickYadhel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)
+![Profile Details](https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErickYadhel&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF)
+![Repos Per Language](https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
-![Streak](https://streak-stats.demolab.com?user=ErickYadhel&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+![Most Commit Language](https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
-</div>
+![Stats](https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/profile-summary-card-output/github_dark/3-stats.svg)
 
----
-
-## 🏆 Logros
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ErickYadhel&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&column=6)
+![Productive Time](https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
@@ -69,7 +63,7 @@ const aboutMe = {
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ErickYadhel&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickYadhel&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000)
 
 </div>
 
@@ -77,13 +71,10 @@ const aboutMe = {
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-[![Administracion-De-Servidores](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErickYadhel&repo=Administracion-De-Servidores-Proyecto-Final&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)](https://github.com/ErickYadhel/Administracion-De-Servidores-Proyecto-Final)
-
-[![l10n-dominicana](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErickYadhel&repo=l10n-dominicana&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)](https://github.com/ErickYadhel/l10n-dominicana)
-
-</div>
+- 🔧 [**Administracion-De-Servidores-Proyecto-Final**](https://github.com/ErickYadhel/Administracion-De-Servidores-Proyecto-Final) — Proyecto Final Universidad O&M | HTML
+- 🇩🇴 [**l10n-dominicana**](https://github.com/ErickYadhel/l10n-dominicana) — Localización Dominicana para NCF en backend y PdV | Python
+- 🌐 [**Proyecto-Web-Los-Hermanos-Sanchez-ED**](https://github.com/ErickYadhel/Proyecto-Web-Los-Hermanos-Sanchez-ED) — Página web | HTML
+- 🛡️ [**Proyecto-Cyber-SRL**](https://github.com/ErickYadhel/Proyecto-Cyber-SRL) — Sitio web corporativo | HTML
 
 ---
 
