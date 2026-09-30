@@ -59,16 +59,6 @@ const aboutMe = {
 
 ---
 
-## 📈 Actividad
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickYadhel&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000)
-
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 - 🔧 [**Administracion-De-Servidores-Proyecto-Final**](https://github.com/ErickYadhel/Administracion-De-Servidores-Proyecto-Final) — Proyecto Final Universidad O&M | HTML
