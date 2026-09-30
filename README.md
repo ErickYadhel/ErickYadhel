@@ -57,10 +57,13 @@ const aboutMe = {
 <!-- ===== SNAKE ===== -->
 🐍 Mis contribuciones
 <div align="center"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/output/github-snake-red.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/output/github-snake.svg"/> <img alt="Snake animation" src="https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/output/github-snake-red.svg"/> </picture></div>
+
 <!-- ===== DASHBOARD MÉTRICAS ===== -->
 📊 Dashboard Completo
 <div align="center"> <img src="https://raw.githubusercontent.com/ErickYadhel/ErickYadhel/main/github-metrics.svg" width="100%"/> </div>
-<!-- ===== FOOTER ===== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer"/>
+
+<!-- ===== FOOTER ===== -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer"/>
 ⭐️ Si te gusta mi trabajo, considera darle una estrella a mis repos ⭐️
 
-</div> ```
+</div>
